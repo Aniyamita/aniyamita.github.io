@@ -1,0 +1,17 @@
+title: ANIYAMITA HOME PAGE
+
+lang: en-US
+
+description: NULL
+
+url: https://www.aniyamita.com/
+
+author: 
+    name: Aniyamita
+    
+github_username: aniyamita
+
+logo: /favicon.png
+
+plugins:
+  - jekyll-seo-tag
